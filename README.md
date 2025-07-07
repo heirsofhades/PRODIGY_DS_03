@@ -61,6 +61,15 @@ Actual Yes|  729   362
 Visualized the trained decision tree using `plot_tree()` with feature names and class labels.
 
 ---
+---
+
+📢 **LinkedIn Post**
+
+Want to see a quick summary and insights?  
+Check out my LinkedIn post here 👉  
+🔗 [View on LinkedIn](https://www.linkedin.com/posts/bhavesh-uchainiya-734651136_datascience-machinelearning-decisiontree-activity-7348103437428953088-AROS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEzB9gB68oVgeCqSHu01XNoWfb_ViJtAeg)
+
+---
 
 ## ✅ Conclusion
 The decision tree model gives a strong accuracy on this classification task. Further improvements can include:
